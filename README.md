@@ -1,7 +1,7 @@
 # WebM-Dynamic-Resolution
 Creates WebMs with dynamic resolutions from videos.
 ![](https://thumbs.gfycat.com/BriefLikelyIndiancow-size_restricted.gif)
-[Windows, Linux, and Android macOS](https://github.com/Sorrow446/WebM-Dynamic-Resolution/releases)
+[Windows, Linux, and macOS binaries](https://github.com/Sorrow446/WebM-Dynamic-Resolution/releases)
 
 # Usage
 **FFmpeg is needed.**  
