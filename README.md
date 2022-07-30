@@ -1,6 +1,6 @@
 # WebM-Dynamic-Resolution
 Creates WebMs with dynamic resolutions from videos.
-![](1.gif)
+![](https://thumbs.gfycat.com/BriefLikelyIndiancow-size_restricted.gif)
 
 # Usage
 **FFmpeg is needed.**  
